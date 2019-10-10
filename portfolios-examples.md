@@ -5,6 +5,7 @@
 
 # Designer :
 - [Design Embraced](https://www.designembraced.com/)
+- [Alan Drabczynski](https://alan-drabczynski.fr/)
 
 
 # Previous Access Code School learners :
@@ -16,3 +17,4 @@
 - [Anjum Herieau](http://www.anjumherieau.online/)
 - [Valérie Honoré](http://valeriehonore.com/)
 - [Émilie Quinonero](http://emiliequinonero.com/)
+- [Frédéric Lambot](https://lambot-frederic.fr/)

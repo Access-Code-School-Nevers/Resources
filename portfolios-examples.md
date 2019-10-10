@@ -14,3 +14,5 @@
 - [Geoffroy Carette](https://www.geoffroy-carette.com/)
 - [Blind Chris](https://www.blindchris.fr/blindchrisportfolio/home)
 - [Anjum Herieau](http://www.anjumherieau.online/)
+- [Valérie Honoré](http://valeriehonore.com/)
+- [Émilie Quinonero](http://emiliequinonero.com/)

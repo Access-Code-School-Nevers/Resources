@@ -13,3 +13,8 @@ Some resources from ACS Nevers Learner.
 ## Symfony
 - [Installing & Setting up the Symfony Framework](https://symfony.com/doc/current/setup.html)
 - [Create your First Page in Symfony](https://symfony.com/doc/current/page_creation.html)
+
+## JavaScript
+- [New ES2019 JavaScript features](https://dev.to/bnevilleoneill/new-es2019-javascript-features-every-developer-should-be-excited-about-1655)
+- [Quelques questions/réponses sur des subtilités de JS (en anglais)](https://blog.soshace.com/en/interviews/15-common-javascript-questions/)
+- [Un quizz sur JS avec des explications (en anglais)](https://quiz.typeofnan.dev/)

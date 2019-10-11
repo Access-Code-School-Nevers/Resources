@@ -6,6 +6,7 @@
 # Designer :
 - [Design Embraced](https://www.designembraced.com/)
 - [Alan Drabczynski](https://alan-drabczynski.fr/)
+- [Robby Leonardi](http://www.rleonardi.com/)
 
 
 # Previous Access Code School learners :

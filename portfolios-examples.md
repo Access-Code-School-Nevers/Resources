@@ -1,6 +1,7 @@
 # Developer :
 - [Gilles Vermeulen](https://gillesvermeulen.be/)
 - [Enguerran Weiss](https://www.enguerranweiss.fr/)
+- [Frédéric Lambot](https://lambot-frederic.fr/)
 
 
 # Designer :
@@ -18,4 +19,14 @@
 - [Anjum Herieau](http://www.anjumherieau.online/)
 - [Valérie Honoré](http://valeriehonore.com/)
 - [Émilie Quinonero](http://emiliequinonero.com/)
-- [Frédéric Lambot](https://lambot-frederic.fr/)
+- [Abdelkrim Naji](http://abdelkrim-naji.com/)
+- [Jules Pageaux](http://julespageaux.com/)
+- [Geoffroy Carette](https://www.geoffroy-carette.com/)
+- [Lucas Robin](https://lucasrobin.fr/)
+
+
+
+
+
+
+

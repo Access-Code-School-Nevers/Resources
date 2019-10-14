@@ -24,13 +24,17 @@
 - [Jules Pageaux](http://julespageaux.com/)
 - [Geoffroy Carette](https://www.geoffroy-carette.com/)
 - [Lucas Robin](https://lucasrobin.fr/)
-- [Solange Harmonie PICARD](https://solangeharmoniepicard.fr/)
+- [Solange Harmonie Picard](https://solangeharmoniepicard.fr/)
+- [Thomas Marechal](http://thomasmarechal.fr/)
+- [Dahalani Mouhamad](https://kemiilblacks.fr/)
+- [Lucas Van Den Berg](https://lucasvandenberg.fr/)
 
 
 # Developer :
 - [Gilles Vermeulen](https://gillesvermeulen.be/)
 - [Enguerran Weiss](https://www.enguerranweiss.fr/)
 - [Frédéric Lambot](https://lambot-frederic.fr/)
+- [Anthony Pilloud](https://anthony-pilloud.fr/)
 
 
 # Designer :

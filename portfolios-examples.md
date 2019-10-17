@@ -9,7 +9,7 @@
 - [Jean-Luc CROBEDDU](https://jeanlucc.promo-29.codeur.online/)
 - [Jérémy VION](https://jeremyv.promo-29.codeur.online/)
 - [Benjamin HENRY](https://benjaminh.promo-29.codeur.online/)
-- [Solange Harmonie PICARD](https://solangep.promo-29.codeur.online/)
+- [Solange Harmonie PICARD](https://solangep.promo-29.codeur.online/) ou Solange Harmonie Picard](https://solangeharmoniepicard.fr/)
 
 # Previous Access Code School learners :
 - [Yoann Moreau](https://yoann-moreau.fr/portfolio)
@@ -24,7 +24,6 @@
 - [Jules Pageaux](http://julespageaux.com/)
 - [Geoffroy Carette](https://www.geoffroy-carette.com/)
 - [Lucas Robin](https://lucasrobin.fr/)
-- [Solange Harmonie Picard](https://solangeharmoniepicard.fr/)
 - [Thomas Marechal](http://thomasmarechal.fr/)
 - [Dahalani Mouhamad](https://kemiilblacks.fr/)
 - [Lucas Van Den Berg](https://lucasvandenberg.fr/)

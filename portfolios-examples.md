@@ -40,6 +40,7 @@
 - [Design Embraced](https://www.designembraced.com/)
 - [Alan Drabczynski](https://alan-drabczynski.fr/)
 - [Robby Leonardi](http://www.rleonardi.com/)
+- [Thibaud Allie](http://www.thibaudallie.com/)
 
 
 # Studio :

@@ -27,7 +27,7 @@ Some resources from ACS Nevers Learner.
 
 ## Wireframe
 - [Pencil Project](http://pencil.evolus.vn/)
-- [https://www.adobe.com/fr/products/xd.html](Adobe XD)
+- [AdobeXD](https://www.adobe.com/fr/products/xd.html)
 
 ## Stuff
 - [emojipedia](https://emojipedia.org/)

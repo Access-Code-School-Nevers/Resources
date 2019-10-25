@@ -30,6 +30,7 @@
 
 
 # Developer :
+- [Bruno Simon](http://bruno-simon.com/)
 - [Gilles Vermeulen](https://gillesvermeulen.be/)
 - [Enguerran Weiss](https://www.enguerranweiss.fr/)
 - [Frédéric Lambot](https://lambot-frederic.fr/)

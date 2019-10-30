@@ -9,7 +9,7 @@
 - [Jean-Luc CROBEDDU](https://jeanlucc.promo-29.codeur.online/)
 - [Jérémy VION](https://jeremyv.promo-29.codeur.online/)
 - [Benjamin HENRY](https://benjaminh.promo-29.codeur.online/)
-- [Solange Harmonie PICARD](https://solangep.promo-29.codeur.online/) ou Shttps://solangeharmoniepicard.fr
+- [Solange Harmonie PICARD](https://solangep.promo-29.codeur.online/) ou https://solangeharmoniepicard.fr
 
 # Previous Access Code School learners :
 - [Yoann Moreau](https://yoann-moreau.fr/portfolio)

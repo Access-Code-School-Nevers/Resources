@@ -10,7 +10,8 @@ Le problème vient d'antislash dans \node_modules\metro-config\src\defaults\blac
 
 
 
-Pour solutionner l'erreur "font family roboto is not a system font and has not been loaded through font.loadasync" sur ios. Fermez votre serveur react native et dans la console tapez :
+Pour solutionner l'erreur "font family roboto is not a system font and has not been loaded through font.loadasync" sur IOS. téléchargez la police roboto "https://fonts.google.com/specimen/Roboto". ajoutez là dans le dossier Assets de votre application et créez un dossier Font. décompressez les fichiers dans ce dossier.
+Fermez votre serveur react native et dans la console tapez :
 ```bash
 npm install expo-font
 ```
@@ -43,7 +44,7 @@ export default class App extends React.Component {
       return <ActivityIndicator />;
     }
     return (
-      ...
+      ... //placez votre code ici
     );
   }
 }

@@ -33,6 +33,8 @@
 - [Pencil Project](http://pencil.evolus.vn/)
 - [AdobeXD](https://www.adobe.com/fr/products/xd.html)
 
+## SEO
+- [Chrome DevTools Doc](https://developers.google.com/web/tools/chrome-devtools)
 
 ## Stuff
 - [emojipedia](https://emojipedia.org/)

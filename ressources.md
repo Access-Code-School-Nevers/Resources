@@ -22,6 +22,7 @@
 - [New ES2019 JavaScript features](https://dev.to/bnevilleoneill/new-es2019-javascript-features-every-developer-should-be-excited-about-1655)
 - [Quelques questions/réponses sur des subtilités de JS (en anglais)](https://blog.soshace.com/en/interviews/15-common-javascript-questions/)
 - [Un quizz sur JS avec des explications (en anglais)](https://quiz.typeofnan.dev/)
+- [Code Combat](https://codecombat.com/home)
 
 ## React Native
 - [React Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)

@@ -35,6 +35,9 @@
 - [Enguerran Weiss](https://www.enguerranweiss.fr/)
 - [Frédéric Lambot](https://lambot-frederic.fr/)
 - [Anthony Pilloud](https://anthony-pilloud.fr/)
+- [Marine Druet](https://marinedruet.fr/)
+- [Cihad Turhan](http://www.cihadturhan.com/)
+- [Adam Hartwig](http://www.adamhartwig.co.uk/)
 
 
 # Designer :
@@ -42,6 +45,7 @@
 - [Alan Drabczynski](https://alan-drabczynski.fr/)
 - [Robby Leonardi](http://www.rleonardi.com/)
 - [Thibaud Allie](http://www.thibaudallie.com/)
+- [Pierre Burel](https://www.pierreburel.com/)
 
 
 # Studio :

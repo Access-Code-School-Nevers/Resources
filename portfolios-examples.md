@@ -38,6 +38,7 @@
 - [Marine Druet](https://marinedruet.fr/)
 - [Cihad Turhan](http://www.cihadturhan.com/)
 - [Adam Hartwig](http://www.adamhartwig.co.uk/)
+- [Kyle Decker](https://www.kyledecker.me)
 
 
 # Designer :
